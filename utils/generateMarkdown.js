@@ -14,11 +14,11 @@ function generateMarkdown(data) {
     return `# ${data.title}
 ## Description ${data.description}
 ## Table of Contents
-###[Usage](#Usage)
-###[License](#License)
-###[Contribution Requirements](#Contribution)
-###[Questions](#Questions)
-###Installation Requirements
+*[Usage](#Usage)
+*[License](#License)
+*[Contribution Requirements](#Contribution Requirements)
+*[Questions](#Questions)
+## Installation Requirements
     ${data.installation}
 ## Usage
     &grave ${data.usage} &grave;
@@ -31,5 +31,3 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
-
-
