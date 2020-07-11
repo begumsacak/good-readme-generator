@@ -58,8 +58,8 @@ function promptUser() {
 
 
 promptUser()
-    .then(function (answers) {
-        const markdown = generateMarkdown(answers);
+    .then(function (data) {
+        const markdown = generateMarkdown(data);
 
         return writeFileAsync("index.md", markdown);
     })
