@@ -29,9 +29,9 @@ Finally, a readme file is generated with the following information:
 
 Pull requests are welcome. 
 
-### Live Website
+### Github Repository
 
-Please access the demo walkthrough of the project from this link: https://begumsacak.github.io/work-day-scheduler/
+Please access the Github repository of the project from this link: https://github.com/begumsacak/good-readme-generator
 
 ## Authors
 
