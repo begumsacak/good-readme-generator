@@ -34,9 +34,11 @@ Finally, a readme file is generated with the following information:
 
 Pull requests are welcome. 
 
-### Github Repository
+### Github Repository & Live Walkthrough
 
 Please access the Github repository of the project from this link: https://github.com/begumsacak/good-readme-generator
+
+Here is a live video walkthrough of how the application works: https://drive.google.com/file/d/1GOljFHTvxof5e8RHX-PKNf_Dz7uaZuGG/view?usp=sharing
 
 ## Authors
 
